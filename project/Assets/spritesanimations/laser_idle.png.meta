@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 790b07b8c7ad80f45914371642466a28
+guid: 49ea8e94ba8af1f4585da9a6036c96da
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -42,7 +42,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: player_0
+    - name: laser_idle_strip15_0
       rect:
         serializedVersion: 2
         x: 0
@@ -52,7 +52,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: player_1
+    - name: laser_idle_strip15_1
       rect:
         serializedVersion: 2
         x: 64
@@ -62,7 +62,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: player_2
+    - name: laser_idle_strip15_2
       rect:
         serializedVersion: 2
         x: 128
@@ -72,10 +72,40 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: player_3
+    - name: laser_idle_strip15_3
       rect:
         serializedVersion: 2
         x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_idle_strip15_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_idle_strip15_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_idle_strip15_6
+      rect:
+        serializedVersion: 2
+        x: 384
         y: 0
         width: 64
         height: 64

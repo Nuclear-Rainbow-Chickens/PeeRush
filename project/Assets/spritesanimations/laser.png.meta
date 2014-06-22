@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 790b07b8c7ad80f45914371642466a28
+guid: 99b7a1fffa9de1a448fcceea4f82fc86
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -42,7 +42,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: player_0
+    - name: laser_0
       rect:
         serializedVersion: 2
         x: 0
@@ -52,30 +52,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: player_1
+    - name: laser_1
       rect:
         serializedVersion: 2
         x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: player_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: player_3
-      rect:
-        serializedVersion: 2
-        x: 192
         y: 0
         width: 64
         height: 64
