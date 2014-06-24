@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerScript.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\DoorScript.js">
     <Files>
-      <File FileName="Assets\scripts\PlayerMoveScript.js" Line="20" Column="3" />
-      <File FileName="Assets\scripts\PlayerScript.js" Line="17" Column="44" />
-      <File FileName="Assets\scripts\PlayerMoveScript.js" Line="22" Column="1" />
+      <File FileName="Assets\scripts\DoorScript.js" Line="24" Column="23" />
       <File FileName="Assets\scripts\FaceScript.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerMoveScript.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerScript.js" Line="1" Column="1" />
       <File FileName="Assets\scripts\TimerScript.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DoorScript.js" Line="55" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
