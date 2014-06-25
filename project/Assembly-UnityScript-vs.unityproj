@@ -53,6 +53,7 @@
      <Compile Include="Assets\scripts\PlayerMoveScript.js" />
      <Compile Include="Assets\scripts\PlayerScript.js" />
      <Compile Include="Assets\scripts\TimerScript.js" />
+     <Compile Include="Assets\scripts\TitleScript.js" />
      <Compile Include="Assets\scripts\WallScript.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
